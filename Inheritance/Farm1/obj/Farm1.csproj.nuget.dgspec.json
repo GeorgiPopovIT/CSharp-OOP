@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\Farm1\\Farm1.csproj": {}
+    "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\Farm1\\Farm1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\Farm1\\Farm1.csproj": {
+    "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\Farm1\\Farm1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\Farm1\\Farm1.csproj",
+        "projectUniqueName": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\Farm1\\Farm1.csproj",
         "projectName": "Farm1",
-        "projectPath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\Farm1\\Farm1.csproj",
+        "projectPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\Farm1\\Farm1.csproj",
         "packagesPath": "C:\\Users\\Georges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\Farm1\\obj\\",
+        "outputPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\Farm1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Georges\\AppData\\Roaming\\NuGet\\NuGet.Config",

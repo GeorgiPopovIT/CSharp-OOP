@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\RandomList\\CustomRandomList.csproj",
+      "projectUniqueName": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\RandomList\\CustomRandomList.csproj",
       "projectName": "CustomRandomList",
-      "projectPath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\RandomList\\CustomRandomList.csproj",
+      "projectPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\RandomList\\CustomRandomList.csproj",
       "packagesPath": "C:\\Users\\Georges\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\RandomList\\obj\\",
+      "outputPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\RandomList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Georges\\AppData\\Roaming\\NuGet\\NuGet.Config",

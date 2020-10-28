@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\StackOfStrings\\StackOfStrings.csproj",
+      "projectUniqueName": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\StackOfStrings\\StackOfStrings.csproj",
       "projectName": "StackOfStrings",
-      "projectPath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\StackOfStrings\\StackOfStrings.csproj",
+      "projectPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\StackOfStrings\\StackOfStrings.csproj",
       "packagesPath": "C:\\Users\\Georges\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\StackOfStrings\\obj\\",
+      "outputPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\StackOfStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Georges\\AppData\\Roaming\\NuGet\\NuGet.Config",

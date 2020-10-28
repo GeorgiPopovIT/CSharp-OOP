@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wa3huYxK0h7/3TmOxvhQl4qL2WZehSTwPrYGFgySvkwyrFjwlZWg4usUSJj+QVC3siMQO5vZ5g2HswOEYSTpzw==",
+  "dgSpecHash": "wZPGnGr5FC6TZ04rGinDGMn52M07cEliLnH4y7ye3f8ex6oWtnb5vpCsVFpt10NvcJ6ireoU/yx2639UljQTzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Georges\\Desktop\\C#-OOP\\Inheritance\\StackOfStrings\\StackOfStrings.csproj",
+  "projectFilePath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\Inheritance\\StackOfStrings\\StackOfStrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
