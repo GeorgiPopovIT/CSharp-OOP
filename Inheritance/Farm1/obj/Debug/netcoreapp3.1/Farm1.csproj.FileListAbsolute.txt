@@ -11,3 +11,16 @@ C:\Users\Georges\Desktop\C#-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.
 C:\Users\Georges\Desktop\C#-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.dll
 C:\Users\Georges\Desktop\C#-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.pdb
 C:\Users\Georges\Desktop\C#-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.genruntimeconfig.cache
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\bin\Debug\netcoreapp3.1\Farm1.exe
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\bin\Debug\netcoreapp3.1\Farm1.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\bin\Debug\netcoreapp3.1\Farm1.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\bin\Debug\netcoreapp3.1\Farm1.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\bin\Debug\netcoreapp3.1\Farm1.dll
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\bin\Debug\netcoreapp3.1\Farm1.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.dll
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\Inheritance\Farm1\obj\Debug\netcoreapp3.1\Farm1.genruntimeconfig.cache
