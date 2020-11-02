@@ -38,7 +38,15 @@ namespace Animals
                 }
                 else if (inputType == "Frog")
                 {
-                    animal = new Frog(name, age, gender);
+                    try
+                    {
+                        animal = new Frog(name, age, gender);
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("Invalid input!");
+                        continue;
+                    }
                 }
                 else if (inputType == "Kitten")
                 {
@@ -50,7 +58,7 @@ namespace Animals
                 }
                 else
                 {
-                    throw new ArgumentException("Invalid input!");
+                    throw new Exception("Invalid input!");
                 }
                 animals.Add(animal);
             }

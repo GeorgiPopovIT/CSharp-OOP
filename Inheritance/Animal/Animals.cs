@@ -6,6 +6,8 @@ namespace Animals
     public class Animals
     {
         private string name;
+        private int age;
+        private string gender;
         public Animals(string name, int age, string gender)
         {
             Name = name;
@@ -26,26 +28,28 @@ namespace Animals
         }
         public int Age
         {
-            get => Age;
-            set
+            get => this.age;
+            private set
             {
                 if (value <= 0)
                 {
                     throw new ArgumentException("Invalid input");
                 }
-                Age = value;
+                this.age = value;
+
             }
         }
         public string Gender
         {
-            get => Gender;
+            get => this.gender;
             set
             {
                 if (value != "Male" && value != "Female")
                 {
-                    throw new ArgumentException("Invalid input");
+                    Console.WriteLine("Invalid input");
+
                 }
-                Gender = value;
+                this.gender = value;
             }
         }
 
