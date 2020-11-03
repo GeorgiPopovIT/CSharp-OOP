@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories.csproj", "{50302DE9-8556-416D-B191-6EFDB02AAA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaCalories", "PizzaCalories.csproj", "{50302DE9-8556-416D-B191-6EFDB02AAA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballGenerator", "..\FootballGenerator\FootballGenerator.csproj", "{55A76745-D686-48A1-B587-BE175468CAAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{50302DE9-8556-416D-B191-6EFDB02AAA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50302DE9-8556-416D-B191-6EFDB02AAA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50302DE9-8556-416D-B191-6EFDB02AAA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A76745-D686-48A1-B587-BE175468CAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A76745-D686-48A1-B587-BE175468CAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A76745-D686-48A1-B587-BE175468CAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A76745-D686-48A1-B587-BE175468CAAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
