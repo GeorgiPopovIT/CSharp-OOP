@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache
