@@ -5,18 +5,14 @@ using System.Text;
 
 namespace CollectionHierarchy.Models
 {
-    public class AddCollection :IAddCollection
+    public class AddCollection : IAddCollection
     {
-        private List<string> list;
+        
+        public AddCollection()
+        {
 
-        public AddCollection(params string[] l)
-        {
-           
         }
-        public void Add(string item)
-        {
-            if(list.Count < 100)
-            list.Insert(0,item);
-        }
+
+        public List<string> List { get; set; }
     }
 }

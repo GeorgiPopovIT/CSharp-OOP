@@ -6,6 +6,10 @@ namespace CollectionHierarchy.Contracts
 {
     public interface IAddCollection
     {
-        void Add(string items);
+        public List<string> List { get; }
+        virtual void Add(string item)
+        {
+            List.Insert(0, item);
+        }
     }
 }
