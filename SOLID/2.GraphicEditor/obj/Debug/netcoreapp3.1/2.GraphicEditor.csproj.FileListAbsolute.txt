@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\bin\Debug\netcoreapp3.1\2.GraphicEditor.exe
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\bin\Debug\netcoreapp3.1\2.GraphicEditor.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\bin\Debug\netcoreapp3.1\2.GraphicEditor.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\bin\Debug\netcoreapp3.1\2.GraphicEditor.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\bin\Debug\netcoreapp3.1\2.GraphicEditor.dll
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\bin\Debug\netcoreapp3.1\2.GraphicEditor.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.dll
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\SOLID\2.GraphicEditor\obj\Debug\netcoreapp3.1\2.GraphicEditor.genruntimeconfig.cache
