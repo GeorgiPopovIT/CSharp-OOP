@@ -8,7 +8,7 @@ namespace _3.DetailPrinter
     {
         static void Main(string[] args)
         {
-            DetailsPrinter detail = new Employee("Misjo"); 
+           
         }
     }
 }
