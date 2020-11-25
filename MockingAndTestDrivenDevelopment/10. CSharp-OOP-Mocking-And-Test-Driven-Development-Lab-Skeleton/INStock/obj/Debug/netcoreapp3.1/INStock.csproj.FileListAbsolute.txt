@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

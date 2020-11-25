@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.exe
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\MockingAndTestDrivenDevelopment\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.genruntimeconfig.cache
