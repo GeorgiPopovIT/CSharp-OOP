@@ -1,9 +1,18 @@
+using NUnit.Framework;
 namespace INStock.Tests
 {
-    using NUnit.Framework;
-
+    [TestFixture]
     public class ProductTests
     {
-        
+        [Test]
+        public void TestProductConstrucor()
+        {
+            //Arrange
+            Product product = new Product("Milk",2m,1);
+
+            //Assert
+            Assert.IsNotNull(product);
+        }
+       
     }
 }

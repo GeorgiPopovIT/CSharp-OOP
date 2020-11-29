@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

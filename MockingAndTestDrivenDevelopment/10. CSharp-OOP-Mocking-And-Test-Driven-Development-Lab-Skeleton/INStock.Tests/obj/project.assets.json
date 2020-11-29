@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "INStock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/INStock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/INStock.dll": {}
+        }
       }
     }
   },
@@ -4577,10 +4587,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "INStock/1.0.0": {
+      "type": "project",
+      "path": "../INStock/INStock.csproj",
+      "msbuildProject": "../INStock/INStock.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "INStock >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
       "nunit >= 3.12.0"
@@ -4612,7 +4628,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\MockingAndTestDrivenDevelopment\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock\\INStock.csproj": {
+              "projectPath": "C:\\Users\\Georges\\Desktop\\CSharp-OOP\\MockingAndTestDrivenDevelopment\\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\\INStock\\INStock.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
