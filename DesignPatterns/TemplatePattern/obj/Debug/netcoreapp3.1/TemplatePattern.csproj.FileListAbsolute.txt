@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.exe
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.deps.json
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.runtimeconfig.json
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.dll
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.AssemblyInfo.cs
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.dll
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.pdb
+C:\Users\Georges\Desktop\CSharp-OOP\DesignPatterns\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.genruntimeconfig.cache
